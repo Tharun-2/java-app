@@ -790,23 +790,40 @@
             
             <nav id="mainNav">
                 <ul>
-                    <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
-                    <li class="dropdown">
-                        <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
-                        <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
-                        </div>
-                    </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
-                </ul>
+    <li><a href="#"><em class="fas fa-home" aria-hidden="true"></em> Home</a></li>
+    <li class="dropdown">
+        <a href="#"><em class="fas fa-th-large" aria-hidden="true"></em> Categories <em class="fas fa-chevron-down" aria-hidden="true"></em></a>
+        <div class="dropdown-content">
+            <a href="#"><em class="fas fa-mobile-alt" aria-hidden="true"></em> Smartphones</a>
+            <a href="#"><em class="fas fa-laptop" aria-hidden="true"></em> Laptops</a>
+            <a href="#"><em class="fas fa-tshirt" aria-hidden="true"></em> Clothing</a>
+            <a href="#"><em class="fas fa-headphones" aria-hidden="true"></em> Gadgets</a>
+            <a href="#"><em class="fas fa-shoe-prints" aria-hidden="true"></em> Footwear</a>
+            <a href="#"><em class="fas fa-watch" aria-hidden="true"></em> Accessories</a>
+        </div>
+    </li>
+    <li><a href="#"><em class="fas fa-fire" aria-hidden="true"></em> Trending</a></li>
+    <li><a href="#"><em class="fas fa-percent" aria-hidden="true"></em> Deals</a></li>
+    <li><a h<ul>
+    <li><a href="#"><em class="fas fa-home" aria-hidden="true"></em> Home</a></li>
+    <li class="dropdown">
+        <a href="#"><em class="fas fa-th-large" aria-hidden="true"></em> Categories <em class="fas fa-chevron-down" aria-hidden="true"></em></a>
+        <div class="dropdown-content">
+            <a href="#"><em class="fas fa-mobile-alt" aria-hidden="true"></em> Smartphones</a>
+            <a href="#"><em class="fas fa-laptop" aria-hidden="true"></em> Laptops</a>
+            <a href="#"><em class="fas fa-tshirt" aria-hidden="true"></em> Clothing</a>
+            <a href="#"><em class="fas fa-headphones" aria-hidden="true"></em> Gadgets</a>
+            <a href="#"><em class="fas fa-shoe-prints" aria-hidden="true"></em> Footwear</a>
+            <a href="#"><em class="fas fa-watch" aria-hidden="true"></em> Accessories</a>
+        </div>
+    </li>
+    <li><a href="#"><em class="fas fa-fire" aria-hidden="true"></em> Trending</a></li>
+    <li><a href="#"><em class="fas fa-percent" aria-hidden="true"></em> Deals</a></li>
+    <li><a href="#"><em class="fas fa-info-circle" aria-hidden="true"></em> About</a></li>
+    <li><a href="#"><em class="fas fa-envelope" aria-hidden="true"></em> Contact</a></li>
+</ul>ref="#"><em class="fas fa-info-circle" aria-hidden="true"></em> About</a></li>
+    <li><a href="#"><em class="fas fa-envelope" aria-hidden="true"></em> Contact</a></li>
+</ul>
             </nav>
             
             <div class="search-bar">
